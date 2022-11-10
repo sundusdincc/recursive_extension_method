@@ -12,7 +12,6 @@ Just because you develop both the library and the consumer doesn't mean that you
 3. If you think data classes should only contain data.
 
 4. Helper methods
-
 In most projects, I tend to end up with helper classes. These are static classes that usually provide some collection of methods for easy formatting.
 
 Extension methods:
