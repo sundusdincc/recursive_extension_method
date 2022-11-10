@@ -1,0 +1,15 @@
+C:\Users\SundusD\Desktop\Pratikler\Extension-Rekürsif-Metotlar\bin\Debug\net6.0\Extension-Rekürsif-Metotlar.exe
+C:\Users\SundusD\Desktop\Pratikler\Extension-Rekürsif-Metotlar\bin\Debug\net6.0\Extension-Rekürsif-Metotlar.deps.json
+C:\Users\SundusD\Desktop\Pratikler\Extension-Rekürsif-Metotlar\bin\Debug\net6.0\Extension-Rekürsif-Metotlar.runtimeconfig.json
+C:\Users\SundusD\Desktop\Pratikler\Extension-Rekürsif-Metotlar\bin\Debug\net6.0\Extension-Rekürsif-Metotlar.dll
+C:\Users\SundusD\Desktop\Pratikler\Extension-Rekürsif-Metotlar\bin\Debug\net6.0\Extension-Rekürsif-Metotlar.pdb
+C:\Users\SundusD\Desktop\Pratikler\Extension-Rekürsif-Metotlar\obj\Debug\net6.0\Extension-Rekürsif-Metotlar.csproj.AssemblyReference.cache
+C:\Users\SundusD\Desktop\Pratikler\Extension-Rekürsif-Metotlar\obj\Debug\net6.0\Extension-Rekürsif-Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SundusD\Desktop\Pratikler\Extension-Rekürsif-Metotlar\obj\Debug\net6.0\Extension-Rekürsif-Metotlar.AssemblyInfoInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\Extension-Rekürsif-Metotlar\obj\Debug\net6.0\Extension-Rekürsif-Metotlar.AssemblyInfo.cs
+C:\Users\SundusD\Desktop\Pratikler\Extension-Rekürsif-Metotlar\obj\Debug\net6.0\Extension-Rekürsif-Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\Extension-Rekürsif-Metotlar\obj\Debug\net6.0\Extension-Rekürsif-Metotlar.dll
+C:\Users\SundusD\Desktop\Pratikler\Extension-Rekürsif-Metotlar\obj\Debug\net6.0\refint\Extension-Rekürsif-Metotlar.dll
+C:\Users\SundusD\Desktop\Pratikler\Extension-Rekürsif-Metotlar\obj\Debug\net6.0\Extension-Rekürsif-Metotlar.pdb
+C:\Users\SundusD\Desktop\Pratikler\Extension-Rekürsif-Metotlar\obj\Debug\net6.0\Extension-Rekürsif-Metotlar.genruntimeconfig.cache
+C:\Users\SundusD\Desktop\Pratikler\Extension-Rekürsif-Metotlar\obj\Debug\net6.0\ref\Extension-Rekürsif-Metotlar.dll
